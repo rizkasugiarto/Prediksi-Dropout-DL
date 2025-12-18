@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data besar
+data/raw/*.csv
+data/raw/*.zip
+
+# Model
+models/*.h5
+models/*.keras
+
+# OS
+.DS_Store
+Thumbs.db
